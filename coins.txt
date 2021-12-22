@@ -1,0 +1,12 @@
+USD, Dólar USA, $
+EUR, Euro, €
+JPY, Yen japonés, ¥
+GBP, Libra esterlina, £
+AUD, Dólar australiano, $
+CAD, Dólar Canadá, $
+CHF, Franco suizo, F
+CNY, Renminbi/yuan chino, 元
+KRW, Won surcoreano, ₩
+INR, Rupia india, ₹
+RUB, Rublo ruso, ₽
+VES, Bolívar, B
