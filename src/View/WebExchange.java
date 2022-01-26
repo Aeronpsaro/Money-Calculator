@@ -1,4 +1,4 @@
-package moneycalculator;
+package View;
 
 import Modelo.Coin;
 import java.io.IOException;

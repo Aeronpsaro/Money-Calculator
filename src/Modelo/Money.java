@@ -1,6 +1,6 @@
 package Modelo;
 
-import moneycalculator.WebExchange;
+import View.WebExchange;
 
 public class Money {
     private final double ammount;

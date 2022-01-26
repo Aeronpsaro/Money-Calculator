@@ -1,6 +1,7 @@
 package moneycalculator;
 
-import GUI.GUIPanel;
+import View.BootFile;
+import View.GUIPanel;
 import Modelo.Coin;
 import Modelo.Money;
 import java.io.File;
