@@ -1,6 +1,6 @@
 package Modelo;
 
-import View.WebExchange;
+import Vista.WebExchange;
 
 public class Money {
     private final double ammount;
